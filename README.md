@@ -1,5 +1,10 @@
 #  <div align="center">Hi there 👋
 ### <div align="center">I am Tarikul
+ 
+<!--  profile add  -->
+ 
+ ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5603AQFN2HNIKm3Rpw/profile-displayphoto-shrink_400_400/0/1638523817201?e=1658361600&v=beta&t=M4NM_lmSkSdztpOtLTSa9j0_OQatRd8mvTIRUJki_fg)
+
  A passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming 
 up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
