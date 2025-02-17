@@ -70,12 +70,14 @@
 
 <br/>
 ## 🌐 Socials  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Tarikul01) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikul-islam-2100841ab/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tarikulcse001/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12157592/tarikul-islam) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4Fe0tii4IzUwNw9gOjyg0A)
 
+| Platform  | Link  |
+|-----------|--------------------------------------------------|
+| ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) | [GitHub](https://github.com/Tarikul01) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/in/tarikul-islam-2100841ab/) |
+| ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) | [Facebook](https://www.facebook.com/tarikulcse001/) |
+| ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white) | [Stack Overflow](https://stackoverflow.com/users/12157592/tarikul-islam) |
+| ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) | [YouTube](https://www.youtube.com/channel/UC4Fe0tii4IzUwNw9gOjyg0A) |
 
 
 <!--
