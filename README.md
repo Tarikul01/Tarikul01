@@ -16,13 +16,13 @@ GIF
 💬 ask me about anything, i am happy to help;</div>  
 
 ### Work  
-- 🌱 I’m currently learning MERN Stack and complete many project  
+[comment]: <>  - 🌱 I’m currently learning MERN Stack and complete many project  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+[comment]: <>  - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+[comment]: <>  - ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
